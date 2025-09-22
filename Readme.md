@@ -9,7 +9,7 @@ The enriched data is saved as a JSON file. Logs are stored in the logs/ folder.
 
 Setup:
 
-git clone https://github.com/YourUsername/City-Spending-Enricher.git       
+git clone https://github.com/YourUsername/City-Spending-Enricher.git ](https://github.com/ShivaKumar-25/City-Spending-Enricher/tree/master    
 cd City-Spending-Enricher     
 python -m venv venv     
 venv\Scripts\activate   # Windows     
